@@ -1,4 +1,4 @@
 **_laravel-learning_**
 
-# 环境
+# Laravel 环境搭建
 - [Set up Laravel Homestead on Mac](https://github.com/keer2345/laravel-learning/issues/1)
